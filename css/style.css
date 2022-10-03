@@ -436,8 +436,8 @@ div.cv {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 225px 150px;
-	min-height: 250px;
-	min-width: 250px;
+	min-height: 225px;
+	min-width: 225px;
 	
 	/* !imp for clickable link */
 	position: relative;
@@ -448,8 +448,20 @@ div.cv {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 180px 190px;
-	min-height: 250px;
-	min-width: 250px;
+	min-height: 225px;
+	min-width: 225px;
+	
+	/* !imp for clickable link */
+	position: relative;
+}
+
+.ce2 {
+	background-image: url("../img/webdev/ce2.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 225px 150px;
+	min-height: 225px;
+	min-width: 225px;
 	
 	/* !imp for clickable link */
 	position: relative;
@@ -460,8 +472,8 @@ div.cv {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 200px 200px;
-	min-height: 250px;
-	min-width: 250px;
+	min-height: 225px;
+	min-width: 200px;
 	
 	/* !imp for clickable link */
 	position: relative;
@@ -472,8 +484,8 @@ div.cv {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 200px 200px;
-	min-height: 250px;
-	min-width: 250px;
+	min-height: 225px;
+	min-width: 200px;
 	
 	/* !imp for clickable link */
 	position: relative;
